@@ -46,16 +46,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[https://www.geeksforgeeks.org/how-to-add-gifs-on-readme-md-file-in-a-github-repository/]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[The greatest challenge for me was using GitHub. I am unfamiliar with this platform and have never been introduced to it before completing this Prework. I spent a bit of time learning the basics. I was confused about everything, but with the resources provided in task 2, I was able to understand GitHub better. The Commit and Push were specifically confusing. When I pushed the Glitch project to my repository, I lost my previous README.md file and didn't understand why. I later found that the Glitch project also had a README.md file which overwrote the original. I was able to correct it and push it to my repository. I also had trouble uploading a gif file to the repository as well. This was due to the fact that I was still learning the basics of GitHub. At first, I was trying to drag the gif file over my README.md file which I had open in a TextEdit software. I figured this would not be the way to go and decided to look it up. I used geeksforgeeks, where I was able to follow their guide on how to upload a gif to a README.md file. I had to open my gif on a web page and copy its link into the README.md file. This was an eye opening experience, which introduced me into the world of GitHub and prepared me for working as team in a professional setting.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[My main question about web development is: How do I make a website more professional and personal? This project was the first time I have ever coded in HTML or CSS. Glitch was an insightful way to experiment with web development, but my project was still connected to Glitch. How am I able to create a website with its own domain? Another question I have about web development is: What programming languages are compatible with HTML and CSS other than JavaScript, if any? I have studied mostly C++ and C# and wonder if there are any ways to implement them in web development.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had a few more hours to work on this project, I would add additional features. I would add a win streak counter, which increases with each win and resets to 0 after a loss. I would also add a more exciting win screen which would make the player feel more accomplished, along with a loss screen so the player can feel that as well. Additionally, I would implement a way to randomize the pattern so the game can remain playable and challenging with more plays. Lastly, I would add a Main Screen where the player is introduced to the game. They player would then the "Start" button and the game buttons would appear to play the game.]
 
 
 
@@ -66,7 +66,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Aligary Patawaran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
