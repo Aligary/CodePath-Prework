@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://raw.githubusercontent.com/Aligary/CodePath-Prework/b6aa4cce52723de1ad73b63b8f46c572fe644d9a/ezgif.com-gif-maker.gif)
+![](https://raw.githubusercontent.com/Aligary/CodePath-Prework/main/preworkgif.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
